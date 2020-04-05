@@ -10,6 +10,12 @@ export default StyleSheet.create({
     paddingTop: Constants.statusBarHeight + 20,
   },
 
+  image: {
+    width: "100%",
+    height: 100,
+    resizeMode: "center",
+  },
+
   title: {
     fontSize: 56,
     lineHeight: 66,
